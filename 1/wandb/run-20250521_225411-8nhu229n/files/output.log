@@ -1,0 +1,7 @@
+C:\Users\artru\anaconda3\Lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\artru\anaconda3\Lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+100%|████████████████████████████████████████████████████████████████████████████████| 782/782 [02:14<00:00,  5.83it/s]
+100%|████████████████████████████████████████████████████████████████████████████████| 782/782 [01:58<00:00,  6.61it/s]
+100%|███████████████████████████████████████████████████████████████████████████████████| 2/2 [04:12<00:00, 126.24s/it]
